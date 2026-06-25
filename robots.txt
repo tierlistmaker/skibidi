@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skibidi.tier-list-maker.com/sitemap.xml
